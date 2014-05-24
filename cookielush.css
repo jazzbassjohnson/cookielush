@@ -1,0 +1,42 @@
+nav {
+	width: 100%;
+	height: 20%;
+	border-bottom: solid black 2px;
+	text-align: center;
+}
+nav ul li {
+	display: inline;
+	font-family: verdana;
+	font-size: 20px;
+	padding: 0 60px 0 60px;
+
+}
+
+a {
+	text-decoration: none;
+	color: #7c5852;
+}
+
+a:hover {
+	color: red;
+}
+img{
+	width: 100%;
+	height: auto;
+}
+#test1{
+	background-image: url(images/test1.jpg);
+	height: 500px;
+	background-repeat: no-repeat;
+}
+.welcome{
+	height: 1000px;
+}
+#message{
+	margin: 20px 50px;
+	height: 600px;
+	width: 300px;
+	font-family: American Typewriter Regular;
+	font-style: italic;
+	color: #7c5852;
+}
