@@ -1,0 +1,30 @@
+{
+  "name": "Parallax-ImageScroll",
+  "version": "0.1.2",
+  "authors": [
+    "Peder Andreas Nielsen <peder1976@gmail.com>"
+  ],
+  "main": "jquery.imageScroll",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "demo/js/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "latest"
+  },
+  "homepage": "https://github.com/pederan/Parallax-ImageScroll",
+  "_release": "0.1.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.2",
+    "commit": "536cdb31c857dd9a1184a25b0033cab61396fe12"
+  },
+  "_source": "git://github.com/pederan/Parallax-ImageScroll.git",
+  "_target": "~0.1.2",
+  "_originalSource": "Parallax-ImageScroll",
+  "_direct": true
+}

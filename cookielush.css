@@ -20,3 +20,12 @@ a {
 a:hover {
 	color: red;
 }
+img{
+	width: 100%;
+	height: auto;
+}
+#test1{
+	background-image: url(images/test1.jpg);
+	height: 500px;
+	background-repeat: no-repeat;
+}
