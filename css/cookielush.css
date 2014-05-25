@@ -33,7 +33,7 @@ a:hover {
 #message{
 	display: inline-block;
 	margin-top: 50px;
-	width: 300px;
+	width: 20%;
 	float: left;
 }
 
@@ -47,7 +47,7 @@ a:hover {
 #about-us{
 	display: inline-block;
 	float: left;
-	width: 800px;
+	width: 60%;
 	text-align: center;
 	margin: 50px 50px 50px 100px;
 }
